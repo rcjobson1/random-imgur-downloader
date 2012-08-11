@@ -1,4 +1,4 @@
 random-imgur-downloader
 =======================
 
-Downloads random imgur images
+A python scripts that downloads random imgur images
